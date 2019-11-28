@@ -50,8 +50,6 @@ header{
 }
 
 
-
-
 /* ### HEADER NAV ###*/
 
 
@@ -99,6 +97,7 @@ header {
 
 
 /* ### HEADERPOST 圖片###*/
+
 #headerpost img {
     float: left;
     vertical-align: bottom;
